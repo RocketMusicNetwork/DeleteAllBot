@@ -6,7 +6,7 @@ Welcome to {bot}
 I can help you to delete all messages in your group.
 Use below buttons to learn more.
 
-By @StarkBots
+By @Elsa_Network
 """
 
 HELP = """
@@ -24,13 +24,13 @@ ABOUT = """
 
 A telegram bot to delete all messages
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/DeleteAllBot)
+Source Code : [Click Here](https://t.me/Elsa_Network)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @Elsa_Network
 """
 
 BUTTONS = True
